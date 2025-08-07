@@ -1,0 +1,43 @@
+# Large data files
+*.csv
+*.xlsx
+*.xls
+
+# Image files (too large for git)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+# Downloaded images folders
+downloaded_images/
+crayola/images/
+deli/images/
+pics/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
